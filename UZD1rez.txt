@@ -1,0 +1,7 @@
+Pavarde, vardas     Atvyko      Isvyko       Sumokejo
+-----------------------------------------------------
+Pirmasis Petras    2010 12 25  2011 1 9  382.5
+Antrute Jurgita    2011 1 15  2011 3 18  1583.4
+Pilkoji Pelye      2010 11 1  2011 4 1  15.5
+-----------------------------------------------------
+Viesbucio pajamos: 1981.4
